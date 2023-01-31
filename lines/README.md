@@ -1,5 +1,5 @@
 This is the description of lines folder
 lines_10PRINT
 
-![lines_10PRINT](https://user-images.githubusercontent.com/11010268/215306425-b282b615-ea62-4720-9fe8-e039407f39f4.PNG)
+![lines](https://user-images.githubusercontent.com/11010268/215665984-c43e0727-ab50-47a8-99f5-a7097b66bc75.gif)
 
