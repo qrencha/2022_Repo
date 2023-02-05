@@ -1,3 +1,7 @@
+// Need the P5js library to run below code, add below in index.html
+//   <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.5.0/p5.min.js"></script>
+
+
 let dim = 600;
 let p0;
 let col = 20; // number of columns and rows
